@@ -707,3 +707,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.07-19.04.59:730][  0]LogAssetRegistry: Asset discovery search completed in 7.8360 seconds
 [2020.03.07-19.04.59:735][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2020.03.07-19.04.59:737][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.03.07-19.08.10:413][179]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Content: 'K:/Program Files/UE_4.25/Engine/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Editor/GLTFImporter/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Editor/MeshEditor/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Editor/MeshEditor/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/AxFImporter/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/AxFImporter/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/DataprepEditor/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/DataprepEditor/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/StaticMeshEditorExtension/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Enterprise/StaticMeshEditorExtension/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Runtime/HDRIBackdrop/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Runtime/HDRIBackdrop/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2020.03.07-19.08.18:177][  7]SourceControl: fatal: K:/Program Files/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content: 'K:/Program Files/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content' is outside repository
+[2020.03.07-19.08.18:347][  7]EditorErrors: Warning: No assets to check in!
+[2020.03.07-19.08.27:177][993]LogSlate: Window 'Source Control Login' being destroyed
